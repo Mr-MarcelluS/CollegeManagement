@@ -3,3 +3,5 @@ Student Name: Kanishka
 Roll Number: 1DT24CG017
 Department: CSD
 Semester: 5
+Attendance: 85%
+Result: PASS
