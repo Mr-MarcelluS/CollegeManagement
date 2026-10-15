@@ -1,0 +1,5 @@
+College Management System
+Student Name: Kanishka
+Roll Number: 1DT24CG017
+Department: CSD
+Semester: 5
